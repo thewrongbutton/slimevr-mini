@@ -237,4 +237,9 @@
       )
     )
   )
+  (model "${KIPRJMOD}/3D-Models/ESP32-C3-MINI-1-N4.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
