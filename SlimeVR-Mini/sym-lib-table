@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Project Library")(type "KiCad")(uri "${KIPRJMOD}/proj_lib.kicad_sym")(options "")(descr "All custom symbols for the SlimeVR Mini project"))
+)
