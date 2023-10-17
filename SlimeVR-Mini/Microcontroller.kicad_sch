@@ -690,6 +690,15 @@
     (uuid 8d0a3b14-80f1-4632-8aaf-302d1a43d7c1)
   )
 
+  (hierarchical_label "SDA" (shape input) (at 181.61 105.41 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 13c50c3a-6617-4077-893d-743faea1ffc6)
+  )
+  (hierarchical_label "SCL" (shape input) (at 181.61 107.95 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 7a224757-c85c-46f4-a8fb-49de1eaca15a)
+  )
+
   (symbol (lib_id "power:GND") (at 106.68 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2e666361-4876-427e-9562-3fc525337ca3)
