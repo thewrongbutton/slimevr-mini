@@ -475,6 +475,14 @@
     [
       "01f70e2f-47c6-495b-b6f7-eee456c9fb57",
       ""
+    ],
+    [
+      "35e02d93-cdac-48f7-b47e-4a5ff7382a35",
+      "Microcontroller"
+    ],
+    [
+      "169517e7-20d5-4078-973c-5085edc66fe6",
+      "IMU"
     ]
   ],
   "text_variables": {}
