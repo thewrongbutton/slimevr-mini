@@ -63,6 +63,23 @@
     )
   )
 
+  (sheet (at 142.24 73.66) (size 20.955 10.795) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b4b84892-15a5-45b5-a5a7-b040492d8665)
+    (property "Sheetname" "Power" (at 142.24 72.9484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power.kicad_sch" (at 142.24 85.0396 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SlimeVR-Mini"
+        (path "/01f70e2f-47c6-495b-b6f7-eee456c9fb57" (page "4"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
