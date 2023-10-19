@@ -1,4 +1,4 @@
-21401513019584189
+21403210703125750
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79449,6 +79449,13 @@ PQFN50P250X300X88-14N
 0
 14
 14
+Project Library
+SOP-8_L4.9-W3.9-P1.27-LS6.0-BL
+
+
+0
+8
+8
 Project Library
 SOP127P600X175-9N
 
