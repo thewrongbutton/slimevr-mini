@@ -8,6 +8,15 @@
   )
 
 
+  (wire (pts (xy 137.16 102.87) (xy 152.4 102.87))
+    (stroke (width 0) (type default))
+    (uuid 56a4093e-8b77-4fa6-90cc-12628f2bf57a)
+  )
+  (wire (pts (xy 137.16 100.33) (xy 152.4 100.33))
+    (stroke (width 0) (type default))
+    (uuid cd4144fb-2ea1-4f5f-baa6-8d42e5080a67)
+  )
+
   (text "TODO:\n- figure out reset circuit for ESP\n" (at 13.97 24.13 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 0673daf1-79a3-4648-8eb8-ea58d811e3e2)
